@@ -1,6 +1,6 @@
 <template>
     <div>
-        <img src="/icon-vue.png" />
+        <img src="../assets/vue.svg" />
     </div>
 </template>
 <script>
